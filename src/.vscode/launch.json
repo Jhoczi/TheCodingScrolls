@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Launch TheCodingScrolls.ConsoleApp",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/TheCodingScrolls.ConsoleApp/bin/Debug/net8.0/TheCodingScrolls.ConsoleApp.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/TheCodingScrolls.ConsoleApp",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+      }
+    ]
+  }
+  

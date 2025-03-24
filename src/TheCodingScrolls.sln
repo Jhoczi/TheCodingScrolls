@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCodingScrolls.Console", "TheCodingScrolls.Console\TheCodingScrolls.Console.csproj", "{ED0EC15E-32AC-402A-B762-7CA65B5F75F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCodingScrolls.ConsoleApp", "TheCodingScrolls.ConsoleApp\TheCodingScrolls.ConsoleApp.csproj", "{ED0EC15E-32AC-402A-B762-7CA65B5F75F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
