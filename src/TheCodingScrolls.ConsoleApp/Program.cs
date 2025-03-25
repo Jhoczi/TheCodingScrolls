@@ -3,7 +3,8 @@ using TheCodingScrolls.ConsoleApp.Problems;
 
 Console.WriteLine("== The Coding Scrolls ==");
 
-IProblem problem = new Problem001_TwoSum();
+//var problem = new Problem001_TwoSum();
+var problem = new Problem002_AddTwoNumbers();
 RunProblem(problem);
 
 static void RunProblem(IProblem problem)
