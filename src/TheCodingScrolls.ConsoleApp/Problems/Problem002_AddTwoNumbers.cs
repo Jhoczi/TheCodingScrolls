@@ -81,12 +81,12 @@ public class Problem002_AddTwoNumbers : IProblem
         var l2 = new ListNode(5, new ListNode(6, new ListNode(4, null)));
         var result1 = AddTwoNumbers(l1, l2);
 
-        // var l3 = new ListNode(0, null);
-        // var l4 = new ListNode(0, null);
-        // var result2 = AddTwoNumbers(l3, l4);
+        var l3 = new ListNode(0, null);
+        var l4 = new ListNode(0, null);
+        var result2 = AddTwoNumbers(l3, l4);
 
-        // var l5 = new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, null)))))));
-        // var l6 = new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, null))));
-        // var result3 = AddTwoNumbers(l5, l6);
+        var l5 = new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, null)))))));
+        var l6 = new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, null))));
+        var result3 = AddTwoNumbers(l5, l6);
     }
 }
